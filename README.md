@@ -8,7 +8,7 @@ Bu proje, havadaki uçakların konum, hız, irtifa ve kimlik bilgilerini ADS-B (
 
 **Uçaklarin Yonleri ve Guzergahlari**
 
-<img width="1026" height="541" alt="image" src="https://github.com/user-attachments/assets/5f25d1af-a160-47b5-a109-38bffce5df3e" />
+<img width="1026" height="532" alt="Ekran görüntüsü 2025-12-03 145840" src="https://github.com/user-attachments/assets/3ca91d0f-acb1-449a-b8be-9d797fbb6653" />
 
 📬 **İletişim**
 
